@@ -1,0 +1,23 @@
+input {
+    margin-bottom: 10px;
+    display: block;
+    flex-grow: 1;
+}
+
+label {
+    flex-basis: 150px;
+    margin-right: 10px;
+}
+
+#gender {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: lightgreen;
+}
